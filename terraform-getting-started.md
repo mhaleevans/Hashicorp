@@ -1,6 +1,6 @@
 # Getting Started with Terraform
 
-Terraform is the most popular langauge for defining and provisioning infrastructure as code (IaC).
+Terraform is the most popular language for defining and provisioning infrastructure as code (IaC).
 
 <!-- I would question making this kind of unsupported statement. -->
 
