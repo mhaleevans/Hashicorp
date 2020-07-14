@@ -90,5 +90,5 @@ In this guide, you installed and configured Terraform, and then you initialized 
 
 For basic information about Terraform, see [Introduction to Terraform](https://www.terraform.io/intro/index.html).
 
-For further in-depth information and ideas, see [Terraform Documentation] (https://www.terraform.io/docs/index.html).
+For further in-depth information and ideas, see [Terraform Documentation](https://www.terraform.io/docs/index.html).
 
